@@ -1,0 +1,30 @@
+.computer {
+    height: 500px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.orange {
+    background-color: #F38B66;
+    color: black;
+    padding: 50px;
+
+}
+body,html {
+    font-family: "Red Hat Text", sans-serif !important;
+}
+.top-buffer-20 {
+    margin-top: 20px;
+}
+
+.overview {
+    background-color: #F38B66;
+  
+}
+
+.footer {
+    background-color: #F38B66;
+}
+
+.social media {
+    color: black
+}
